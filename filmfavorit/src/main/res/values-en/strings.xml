@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FilmFavorit</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="tahun_rilis">Release Date</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "662456169744",
+    "firebase_url": "https://goletfilm-f4b42.firebaseio.com",
+    "project_id": "goletfilm-f4b42",
+    "storage_bucket": "goletfilm-f4b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662456169744:android:b8eef9653b128c7c",
+        "android_client_info": {
+          "package_name": "com.rifkiystark.goletfilm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662456169744-da7va43m5huqpn3ivjfpl9hbl6ohdrlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rifkiystark.goletfilm",
+            "certificate_hash": "e06f7baee9f76dbcd011cc4b7e50df269078d180"
+          }
+        },
+        {
+          "client_id": "662456169744-lqg9tb01cbsssom634lom2cmol3cuprj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJx-o3EMC3By0P5eGAGJHGqV6t9n6cBzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662456169744-lqg9tb01cbsssom634lom2cmol3cuprj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

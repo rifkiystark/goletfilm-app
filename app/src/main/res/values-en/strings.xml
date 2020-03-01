@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Golet Film</string>
+    <string name="cari">Search</string>
+    <string name="title">Title</string>
+    <string name="sinopsis">Synopsis</string>
+    <string name="negara">Country</string>
+    <string name="tahun_rilis">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="genre">Genre</string>
+    <string name="judul">Title</string>
+    <string name="carifilm">Search Film</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="search">Search</string>
+    <string name="gantibahasa">Change Language</string>
+    <string name="favorite">Favourite</string>
+    <string name="toast_add_favorite">Added to Favourite</string>
+    <string name="toast_remove_favorite">Removed from Favourite</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="kosong">Null ? Astgahfirullah</string>
+    <string name="notif_daily">Miss You</string>
+    <string name="reminder">Reminder On</string>
+    <string name="reminder_off">Reminder Off</string>
+</resources>

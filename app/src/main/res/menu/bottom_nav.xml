@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_search"
+        android:enabled="true"
+        android:icon="@drawable/ic_seaarch"
+        android:title="@string/search" />
+    <item
+        android:id="@+id/menu_now_playing"
+        android:enabled="true"
+        android:icon="@drawable/ic_now_playing"
+        android:title="@string/now_playing" />
+    <item
+        android:id="@+id/menu_upcoming"
+        android:enabled="true"
+        android:icon="@drawable/ic_upcoming"
+        android:title="@string/up_coming"/>
+    <item
+        android:id="@+id/menu_favorite"
+        android:enabled="true"
+        android:icon="@drawable/ic_thumb_up_white_24dp"
+        android:title="@string/favorite"/>
+</menu>

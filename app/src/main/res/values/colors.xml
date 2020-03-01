@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b3f53</color>
+    <color name="colorPrimaryDark">#3b3f53</color>
+    <color name="cardBackground">#d1d1d1</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorProgressBar">#a7000000</color>
+    <color name="background">#696d80</color>
+</resources>
